@@ -1,0 +1,3 @@
+include ':zoomable-recyclerview'
+include ':app'
+rootProject.name = "ZoomableRecyclerViewExample"
